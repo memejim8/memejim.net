@@ -1,3 +1,3 @@
-# caffeine.moe
+<memejim.net> aka my personal website
 
-My personal website.
+fork of caffeine's website "caffeine.moe"
